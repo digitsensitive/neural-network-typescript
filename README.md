@@ -1,1 +1,1 @@
-# Neural-networks-and-deep-learning
+# Neural network in TypeScript
