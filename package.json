@@ -1,0 +1,30 @@
+{
+  "name": "Neural-networks-and-deep-learning",
+  "version": "1.0.0",
+  "description": "Experiments with neural networks and deep learning. ",
+  "keywords": [
+    "Neural networks",
+    "Deep Learning",
+    "Artificial intelligence",
+    "TypeScript"
+  ],
+  "bugs": {
+    "email": "digit.sensitivee@gmail.com"
+  },
+  "license": "MIT",
+  "author": "digitsensitive <digit.sensitivee@gmail.com>",
+  "scripts": {
+    "build": "tsc",
+    "watch": "ts-node-dev --respawn --transpileOnly src/testingNeuralNetwork.ts"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "ts-node-dev": "^1.0.0-pre.39",
+    "typescript": "^3.5.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/digitsensitive/neuroevolution-typescript.git"
+  },
+  "homepage": "https://github.com/digitsensitive/neuroevolution-typescript#readme"
+}
